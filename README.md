@@ -18,4 +18,4 @@ This is a simple calculator web app built using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/calculator-web-app.git](https://github.com/melan-variya/Calculator)
+   git clone https://github.com/melan-variya/Calculator
