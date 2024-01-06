@@ -4,7 +4,7 @@ This is a simple calculator web app built using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Calculator Preview](Screenshot 2024-01-06 133836.png)
+![Calculator Preview](133836.png)
 
 ## Features
 
