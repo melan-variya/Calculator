@@ -17,5 +17,9 @@ This is a simple calculator web app built using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/melan-variya/Calculator
+   ```bash 
+   1. git clone https://github.com/melan-variya/Calculator
+   2. Open the `index.html` file in your preferred web browser.
+   3. Start using the calculator.
+## Dependencies
+   No external dependencies are required. The application is built using HTML, CSS, and JavaScript.
