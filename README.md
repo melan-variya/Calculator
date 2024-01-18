@@ -24,4 +24,4 @@ This is a simple calculator web app built using HTML, CSS, and JavaScript.
 ## Dependencies
    No external dependencies are required. The application is built using HTML, CSS, and JavaScript.
 
-![view live](https://calculatebym.netlify.app/)
+[view live](https://calculatebym.netlify.app/)
