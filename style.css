@@ -1,14 +1,9 @@
-body{
+.hmm{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; 
+    height: 90vh; 
 }
-/* .milan{
-    margin-left:-100 ;
-} */
-
-
 .box{
     margin-top: 0px;
     height:600px;
